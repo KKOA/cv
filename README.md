@@ -1,5 +1,5 @@
 <h1 align="center"> <a id="top">Keith. K. O. Amoah</a> </h1>
-<p style="text-align:center"><a href="#skills">WORK EXPERIENCE</a>
+<p align="center"><a href="#skills">WORK EXPERIENCE</a>
 | <a href="#skills">KEY SKILLS</a>
 | <a href="#education">EDUCATION</a>
 | <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a><br>
@@ -37,7 +37,7 @@ Programming
 <ul><li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li></ul>
 <ul><li>Some experience with Laravel – Laravel Homestead &amp; Codeiginter</li></ul>
 <ul><li>HTML5, CSS3 (SCSS)</li></ul>
-<ul><li>Java and Visual basic, Ruby</li></ul>
+<ul><li>Java, Visual basic &amp; Ruby</li></ul>
 <ul><li>Some experience in C++ &amp; Action Script 3</li></ul>
 Databases
 <ul><li>Access, Oracle 10, SQL , ODBC, JBDC and commercial experience in MySQL</li></ul>
