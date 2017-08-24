@@ -2,73 +2,76 @@
 <p style="text-align:center"><a href="#skills">WORK EXPERIENCE</a>
 | <a href="#skills">KEY SKILLS</a>
 | <a href="#education">EDUCATION</a>
-| <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a>
-| <a href="#achievements">ACHIEVEMENTS</a>
+| <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a><br>
+| <a href="#achievements">SELECTED ACHIEVEMENTS</a>
 | <a href="#interests">INTERESTS</a>
 | <a href="#contact">CONTACT</a>
 </p>
 <h2>OBJECTIVE</h2>
-<p>To serve in a programming/developer position where my technical strengths, my analytical abilities combined with my strong people skills will enable me to add value to the business. Working for an exciting company, my eagerness to seize opportunities to learn and to find solutions to business matters will contribute to the continued profitability of the company.</p>
+<p>To serve in a programming / developer position where my technical strengths, my analytical abilities combined with my strong people skills will enable me to add value to the business. Working for an exciting company, my eagerness to seize opportunities to learn and to find solutions to business matters will contribute to the continued profitability of the company.</p>
 
 <h2><a id="experience">WORK EXPERIENCE</a></h2>
 Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, CSS, JavaScript, HTML)
-- Developed, implemented, customised and maintained digital data-capturing tools for leading blue chip clients. These were deployed to identify how these business could better support their existing clientele and to identify potential growth areas.
-- Managed MySQL database requests, fielding queries from internal stake holders and numerous departments.
-- Wrote bespoke work-arounds in the data delivery methods for handling changes requested by clients.
-- Created bespoke PHP scripts to send data to third parties for the purpose of checking data integrity
-- Carried out product testing and maintenance of old/new custom campaign management system
-- Assisted in the creation of the quarantine rule set and created a custom script to identify records from the old system that did not comply with the new rule set. This was to preserve the integrity of the data being transferred between the old and the new system.
-- Worked with third party software: Tortoise SVN & Deploy
+<ul>
+<li>Developed, implemented, customised and maintained digital data-capturing tools for leading blue chip clients. These were deployed to identify how these business could better support their existing clientele and to identify potential growth areas.</li>
+<li>Managed MySQL database requests, fielding queries from internal stake holders and numerous departments.</li>
+<li>Wrote bespoke work-arounds in the data delivery methods for handling changes requested by clients.</li>
+<li>Created bespoke PHP scripts to send data to third parties for the purpose of checking data integrity</li>
+<li>Carried out product testing and maintenance of old/new custom campaign management system</li>
+<li>Assisted in the creation of the quarantine rule set and created a custom script to identify records from the old system that did not comply with the new rule set. This was to preserve the integrity of the data being transferred between the old and the new system.</li>
+<li>Worked with third party software: Tortoise SVN &amp; Deploy</li>
+</ul>
 
 <h3> LOGISTICS </h3>
-June 2015 to Jan 2016 - DHL – Warehouse Operative
+<p>June 2015 to Jan 2016 - DHL – Warehouse Operative</p>
 
-May 2013 to June 2015 - 24.7 Recruitment – Contract Stock Handler
+<p>May 2013 to June 2015 - 24.7 Recruitment – Contract Stock Handler</p>
 
 <h3> INDUSTRIAL PLACEMENT </h3>
 Aug 2009 to Aug 2010 - Aish Technology Ltd-Trainee Software Support Engineer
 
 <h2><g-emoji alias="book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png" ios-version="6.0">📖</g-emoji> <a id="skills">KEY SKILLS</a></h2>
-Software Development Environment                                          
--	Extensive knowledge of Development environment (Eclipse, Dreamweaver, etc.).
+Software Development Environment
+<ul><li>Extensive knowledge of Development environment (Eclipse, Dreamweaver, etc.).</li></ul>
 Programming
--	Commercial experience in PHP  & JavaScript (JQuery)
--	Some experience with Laravel – Laravel Homestead & Codeiginter
--	HTML5, CSS3 (SCSS)
--	Java and Visual basic, Ruby
--	Some experience in C++ & Action Script 3
-Databases            
--	Access, Oracle 10, SQL , ODBC, JBDC and commercial experience in MySQL
+<ul><li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li></ul>
+<ul><li>Some experience with Laravel – Laravel Homestead &amp; Codeiginter</li></ul>
+<ul><li>HTML5, CSS3 (SCSS)</li></ul>
+<ul><li>Java and Visual basic, Ruby</li></ul>
+<ul><li>Some experience in C++ &amp; Action Script 3</li></ul>
+Databases
+<ul><li>Access, Oracle 10, SQL , ODBC, JBDC and commercial experience in MySQL</li></ul>
 Network
--	Competent  in network schemas and design
+<ul><li>Competent  in network schemas and design</li></ul>
 Design Systems
--	I understand how to analyse a business system effectively and how to improve it using DFD, UP and UML
+<ul><li>I understand how to analyse a business system effectively and how to improve it using DFD, UP and UML</li></ul>
 Operating systems
--	Proficient in Windows 7/10,  limited LINUX (SUSE 10 and Ubuntu, Debian)
+<ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE 10 and Ubuntu, Debian)</li></ul>
 Version control software
-- Commercial experience with Tortoise, Deploy & some experience with GIT
+<ul><li>Commercial experience with Tortoise, Deploy &amp; some experience with GIT</li></ul>
 
 <h2><g-emoji alias="mortar_board" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png" ios-version="6.0">🎓</g-emoji> <a id="education">EDUCATION</a></h2>
-11th –15th August 2014 WELL House Consultants<br>
-PHP Programming
+<p>11th –15th August 2014 WELL House Consultants<br>
+PHP Programming</p>
 
- Jan - Dec 2011, Bournemouth University<br>
-Passed CCNA 2   Routing Protocols and Concept
+<p>Jan - Dec 2011, Bournemouth University<br>
+Passed CCNA 2   Routing Protocols and Concept</p>
 
-2007– 2011, Bournemouth University<br>
+<p>2007– 2011, Bournemouth University<br>
 BSc(Hons) Multimedia Communication Systems (MCS)(Awarded 2.2)<br>
-MCS aims to educate and develop Computer Science graduates for the Multimedia and Games Industry
+MCS aims to educate and develop Computer Science graduates for the Multimedia and Games Industry</p>
 
-2005 – 2007, Cirencester College, Cirencester<br>
-A2   level:  Maths C, Computing D, Physics D.  AS level:  German D.
+<p>2005 – 2007, Cirencester College, Cirencester<br>
+A2   level:  Maths C, Computing D, Physics D.  AS level:  German D.</p>
 
 <h2><a id="attributes">PERSONAL ATTRIBUTES/PROFILE</a></h2>
-Interculturally aware, lived as child in Berlin (4 years), studied German to AS level
-Effective report & presentation skills – came first in competition for my report on “What the WEEE & RoHS Initiatives are and why they are Important”.
-Committed, hardworking and reliable
-Leadership - directed a team project (of 5 peers) on analysing a business system and came up with our own solution to improve efficiency and reduce possible errors.
+<p>Interculturally aware, lived as child in Berlin (4 years), studied German to AS level<br>
+Effective report &amp; presentation skills – came first in competition for my report on “What the WEEE &amp; RoHS Initiatives are and why they are Important”.<br>
+Committed, hard-working and reliable<br>
+Leadership - directed a team project (of 5 peers) on analysing a business system and came up with our own solution to improve efficiency and reduce possible errors.<br>
+</p>
 
-<h2><a name="achievements">ACHIEVEMENTS</a></h2>
+<h2><a id="achievements">SELECTED ACHIEVEMENTS</a></h2>
 <p>Designed and built an E-learning Aid to assist students studying Wi-Fi, WiMAX and LTE (Long Term Evolution). The E-learning Aid provided a “blended learning” experience which embraced a number of multimedia modes such as text, video, audio and Flash animations. The site is currently on my Raspberry PI LAMP server. (Available on request)</p>
 
 <p>Constructed an E-commerce music site similar to iTunes based on Oracle, JavaScript and PHP.  I worked in the Integrated Project Team as Oracle Database Designer.</p>
@@ -79,7 +82,7 @@ Leadership - directed a team project (of 5 peers) on analysing a business system
 
 <p>As the programmer in an Integrated Project Team, we constructed a small scale version of a solution from a previous system design project. The system used Access Database, OBDC and Java and the product was demonstrated to the public.</p>
 
-<h2><a name="interests">INTERESTS</a></h2>
+<h2><a id="interests">INTERESTS</a></h2>
 <p>I am strongly motivated to keep up to date with current technologies. I am also an enthusiast of Computer games. I also enjoy playing many sporting activities like Tennis and Badminton.</p>
 
 
