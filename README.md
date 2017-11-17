@@ -10,6 +10,16 @@
 <h2>OBJECTIVE</h2>
 <p>To serve in a programming / developer position where my technical strengths, my analytical abilities combined with my strong people skills will enable me to add value to the business. Working for an exciting company, my eagerness to seize opportunities to learn and to find solutions to business matters will contribute to the continued profitability of the company.</p>
 
+<h2> Recent Activity</h2>
+<p>From July to Nov 2017 I have been taking an intensive software development at Makers Academy based in London. The purpose of the course was to expand on my existing knowledge of program languages while engraining the best practices and new methodologies.</p>
+
+
+<!--| Project   | Description | Technologies |
+|---        |---          |---           |
+| [foodback](https://www.github.com/KKOA/foodback) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara |
+| [Thermostat](https://github.com/KKOA/thermostat) | The thermostat program which allows the user to change the temperature of the room and power mode. The thermostat is capable of remembering the last temperature that it was set at aswell display the current temperature outside in real time | JavaScript &amp; Jasmine |-->
+
+
 <h2><a id="experience">WORK EXPERIENCE</a></h2>
 Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, CSS, JavaScript, HTML)
 <ul>
@@ -38,9 +48,17 @@ Programming
 <ul><li>Some experience with Laravel – Laravel Homestead &amp; Codeiginter</li></ul>
 <ul><li>HTML5, CSS3 (SCSS)</li></ul>
 <ul><li>Java, Visual basic &amp; Ruby</li></ul>
-<ul><li>Some experience in C++ &amp; Action Script 3</li></ul>
+<ul><li>Some experience in C++, Action Script 3 &amp; Ruby(Ruby on Rails & sinatra)</li></ul>
+Methodologies
+<ul>
+  <li>Test driven development and behaviour driven development</li>
+  <li>Pair programming</li>
+  <li>XP values</li>
+</ul>
 Databases
-<ul><li>Access, Oracle 10, SQL , ODBC, JBDC and commercial experience in MySQL</li></ul>
+<ul>
+  <li>Access, Oracle 10, SQL , ODBC, JBDC, Postgres &amp; commercial experience in MySQL</li>
+</ul>
 Network
 <ul><li>Competent  in network schemas and design</li></ul>
 Design Systems
@@ -51,6 +69,13 @@ Version control software
 <ul><li>Commercial experience with Tortoise, Deploy &amp; some experience with GIT</li></ul>
 
 <h2><g-emoji alias="mortar_board" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png" ios-version="6.0">🎓</g-emoji> <a id="education">EDUCATION</a></h2>
+
+<p>
+2017 July - Novemeber, Makers Academy<br>
+  16-week intensive software for a Junior Developer role covering Agile methodologies, Object-oriented design,  Test driven development 
+  Pair programming and XP values
+</p>
+
 <p>11th –15th August 2014 WELL House Consultants<br>
 PHP Programming</p>
 
@@ -80,7 +105,7 @@ Leadership - directed a team project (of 5 peers) on analysing a business system
 
 <p>I led a team to analyse a business system, identifying problems and coming up with our own solution. We evaluated our solution in terms of its effectiveness, efficiency and financial viability in comparison to the existing system for the company. This was later used in our project during Simulated Business Week.</p>
 
-<p>As the programmer in an Integrated Project Team, we constructed a small scale version of a solution from a previous system design project. The system used Access Database, OBDC and Java and the product was demonstrated to the public.</p>
+<p>As the programmer in an Integrated Project Team, we constructed a small-scale version of a solution from a previous system design project. The system used Access Database, OBDC and Java and the product was demonstrated to the public.</p>
 
 <h2><a id="interests">INTERESTS</a></h2>
 <p>I am strongly motivated to keep up to date with current technologies. I am also an enthusiast of Computer games. I also enjoy playing many sporting activities like Tennis and Badminton.</p>
