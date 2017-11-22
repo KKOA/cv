@@ -14,10 +14,10 @@
 <p>From July to Nov 2017 I have been taking an intensive software development at Makers Academy based in London. The purpose of the course was to expand on my existing knowledge of program languages while engraining the best practices and new methodologies.</p>
 
 
-<!--| Project   | Description | Technologies |
+| Project   | Description | Technologies |
 |---        |---          |---           |
-| [foodback](https://www.github.com/KKOA/foodback) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara |
-| [Thermostat](https://github.com/KKOA/thermostat) | The thermostat program which allows the user to change the temperature of the room and power mode. The thermostat is capable of remembering the last temperature that it was set at aswell display the current temperature outside in real time | JavaScript &amp; Jasmine |-->
+| [Thermostat Sinatra](https://github.com/KKOA/thermostat-sinatra) | The thermostat program which allows the user to change the temperature of the room and power mode. The thermostat is capable of remembering the last temperature that it was set at aswell display the current temperature outside | JavaScript &amp; Jasmine |
+<!--| [foodback](https://www.github.com/KKOA/foodback) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara | -->
 
 
 <h2><a id="experience">WORK EXPERIENCE</a></h2>
