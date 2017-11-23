@@ -8,7 +8,7 @@
 | <a href="#contact">CONTACT</a>
 </p>
 <h2>OBJECTIVE</h2>
-<p>To serve in a programming / developer position where my technical strengths, my analytical abilities combined with my strong people skills will enable me to add value to the business. Working for an exciting company, my eagerness to seize opportunities to learn and to find solutions to business matters will contribute to the continued profitability of the company.</p>
+<p>To serve in a programming position where my technical strengths, my analytical abilities combined with my strong people skills will enable me to add value to the business. Working for an exciting company, my eagerness to seize opportunities to learn and to find solutions to business matters will contribute to the continued profitability of the company.</p>
 
 <h2> Recent Activity</h2>
 <p>From July to Nov 2017 I have been taking an intensive software development at Makers Academy based in London. The purpose of the course was to expand on my existing knowledge of program languages while engraining the best practices and new methodologies.</p>
@@ -16,8 +16,8 @@
 
 | Project   | Description | Technologies |
 |---        |---          |---           |
-| [Thermostat Sinatra](https://github.com/KKOA/thermostat-sinatra) | The thermostat program which allows the user to change the temperature of the room and power mode. The thermostat is capable of remembering the last temperature that it was set at aswell display the current temperature outside | JavaScript &amp; Jasmine |
-<!--| [foodback](https://www.github.com/KKOA/foodback) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara | -->
+| [Thermostat Sinatra](https://github.com/KKOA/thermostat-sinatra) | The thermostat program which allows the user to change the temperature of the room and power mode. The thermostat is capable of remembering the last temperature that it was set at aswell display the current temperature outside | Sinatra, JavaScript &amp; Jasmine |
+| [foodreview](https://github.com/KKOA/foodreview) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara &amp; Jquery |
 
 
 <h2><a id="experience">WORK EXPERIENCE</a></h2>
