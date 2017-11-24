@@ -17,7 +17,8 @@
 | Project   | Description | Technologies |
 |---        |---          |---           |
 | [Thermostat Sinatra](https://github.com/KKOA/thermostat-sinatra) | The thermostat program which allows the user to change the temperature of the room and power mode. The thermostat is capable of remembering the last temperature that it was set at aswell display the current temperature outside | Sinatra, JavaScript &amp; Jasmine |
-| [foodreview](https://github.com/KKOA/foodreview) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara &amp; Jquery |
+| [Foodreview](https://github.com/KKOA/foodreview) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara &amp; Jquery |
+| [Bank](https://github.com/KKOA/bank-tech-test) | Built simple bank program. | Ruby &amp; Rspec |
 
 
 <h2><a id="experience">WORK EXPERIENCE</a></h2>
