@@ -1,5 +1,5 @@
 <h1 align="center"> <a id="top">Keith. K. O. Amoah</a> </h1>
-<p align="center"><a href="#skills">WORK EXPERIENCE</a>
+<p align="center"><a href="#experience">WORK EXPERIENCE</a>
 | <a href="#skills">KEY SKILLS</a>
 | <a href="#education">EDUCATION</a>
 | <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a><br>
@@ -21,27 +21,6 @@
 | [Thermostat Sinatra](https://github.com/KKOA/thermostat-sinatra) | The thermostat program which allows the user to change the temperature of the room and power mode. The thermostat is capable of remembering the last temperature that it was set at aswell display the current temperature outside | Sinatra, JavaScript &amp; Jasmine |
 | [Foodreview](https://github.com/KKOA/foodreview) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara &amp; Jquery |
 | [Bank](https://github.com/KKOA/bank-tech-test) | Built simple bank program. | Ruby &amp; Rspec |
-
-
-<h2><a id="experience">WORK EXPERIENCE</a></h2>
-Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, CSS, JavaScript, HTML)
-<ul>
-<li>Developed, implemented, customised and maintained digital data-capturing tools for leading blue chip clients. These were deployed to identify how these business could better support their existing clientele and to identify potential growth areas.</li>
-<li>Managed MySQL database requests, fielding queries from internal stake holders and numerous departments.</li>
-<li>Wrote bespoke work-arounds in the data delivery methods for handling changes requested by clients.</li>
-<li>Created bespoke PHP scripts to send data to third parties for the purpose of checking data integrity</li>
-<li>Carried out product testing and maintenance of old/new custom campaign management system</li>
-<li>Assisted in the creation of the quarantine rule set and created a custom script to identify records from the old system that did not comply with the new rule set. This was to preserve the integrity of the data being transferred between the old and the new system.</li>
-<li>Worked with third party software: Tortoise SVN &amp; Deploy</li>
-</ul>
-
-<h3> LOGISTICS </h3>
-<p>June 2015 to Jan 2016 - DHL – Warehouse Operative</p>
-
-<p>May 2013 to June 2015 - 24.7 Recruitment – Contract Stock Handler</p>
-
-<h3> INDUSTRIAL PLACEMENT </h3>
-Aug 2009 to Aug 2010 - Aish Technology Ltd-Trainee Software Support Engineer
 
 <h2><g-emoji alias="book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png" ios-version="6.0">📖</g-emoji> <a id="skills">KEY SKILLS</a></h2>
 Software Development Environment
@@ -70,6 +49,26 @@ Operating systems
 <ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE 10 and Ubuntu, Debian)</li></ul>
 Version control software
 <ul><li>Commercial experience with Tortoise, Deploy &amp; some experience with GIT</li></ul>
+
+<h2><a id="experience">WORK EXPERIENCE</a></h2>
+Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, CSS, JavaScript, HTML)
+<ul>
+<li>Developed, implemented, customised and maintained digital data-capturing tools for leading blue chip clients. These were deployed to identify how these business could better support their existing clientele and to identify potential growth areas.</li>
+<li>Managed MySQL database requests, fielding queries from internal stake holders and numerous departments.</li>
+<li>Wrote bespoke work-arounds in the data delivery methods for handling changes requested by clients.</li>
+<li>Created bespoke PHP scripts to send data to third parties for the purpose of checking data integrity</li>
+<li>Carried out product testing and maintenance of old/new custom campaign management system</li>
+<li>Assisted in the creation of the quarantine rule set and created a custom script to identify records from the old system that did not comply with the new rule set. This was to preserve the integrity of the data being transferred between the old and the new system.</li>
+<li>Worked with third party software: Tortoise SVN &amp; Deploy</li>
+</ul>
+
+<h3> LOGISTICS </h3>
+<p>June 2015 to Jan 2016 - DHL – Warehouse Operative</p>
+
+<p>May 2013 to June 2015 - 24.7 Recruitment – Contract Stock Handler</p>
+
+<h3> INDUSTRIAL PLACEMENT </h3>
+Aug 2009 to Aug 2010 - Aish Technology Ltd-Trainee Software Support Engineer
 
 <h2><g-emoji alias="mortar_board" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png" ios-version="6.0">🎓</g-emoji> <a id="education">EDUCATION</a></h2>
 
