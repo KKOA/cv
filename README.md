@@ -7,11 +7,13 @@
 | <a href="#interests">INTERESTS</a>
 | <a href="#contact">CONTACT</a>
 </p>
-<h2>OBJECTIVE</h2>
-<p>To serve in a programming position where my technical strengths, my analytical abilities combined with my strong people skills will enable me to add value to the business. Working for an exciting company, my eagerness to seize opportunities to learn and to find solutions to business matters will contribute to the continued profitability of the company.</p>
+<p>I had fascination in software development since a young age and keep up to date with current technologies and open to working with different technologies and learn new skills.</p> 
+<p>I am a former Backend Developer with 1 year’s commercial experience with API, seeking an opportunities in environment that will expand my knowledge and skills while enabling me to add value to the business using my existing technical strengths, analytical abilities and strong people skills.</p> 
+
+
 
 <h2> Recent Activity</h2>
-<p>From July to Nov 2017 I have been taking an intensive software development at Makers Academy based in London. The purpose of the course was to expand on my existing knowledge of program languages while engraining the best practices and new methodologies.</p>
+<p>I recently graduated from a highly selective, 16 week, 9 till 5, intensive software development boot camp at Makers Academy. I took the course to expand on my existing knowledge of program languages while instilled the best practices and new methodologies such as TDD (Test Driven Development) & Agile.</p>
 
 
 | Project   | Description | Technologies |
