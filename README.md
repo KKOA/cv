@@ -5,13 +5,12 @@
 | <a href="#education">EDUCATION</a>
 | <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a><br>
 | <a href="#achievements">SELECTED ACHIEVEMENTS</a>
-| <a href="#interests">INTERESTS</a>
 | <a href="#contact">CONTACT</a>
 </p>
-<p>I had fascination in software development since a young age and keep up to date with current technologies and open to working with different technologies and learn new skills.</p> 
+
 <p>I am a former Backend Developer with 1 year’s commercial experience with API, seeking an opportunities in environment that will expand my knowledge and skills while enabling me to add value to the business using my existing technical strengths, analytical abilities and strong people skills.</p> 
 
-
+<p>I had a fascination with software development since a young age and keep up to date with current technologies. I am open to working with different technologies and learn new skills . When I am not coding, I playing computer games or playing sports like Tennis and Badminton.</p> 
 
 <h2> Recent Activity</h2>
 <p>I recently graduated from a highly selective, 16 week, 9 till 5, intensive software development boot camp at Makers Academy. I took the course to expand on my existing knowledge of program languages while instilled the best practices and new methodologies such as TDD (Test Driven Development) & Agile.</p>
@@ -109,10 +108,6 @@ Leadership - directed a team project (of 5 peers) on analysing a business system
 <p>I led a team to analyse a business system, identifying problems and coming up with our own solution. We evaluated our solution in terms of its effectiveness, efficiency and financial viability in comparison to the existing system for the company. This was later used in our project during Simulated Business Week.</p>
 
 <p>As the programmer in an Integrated Project Team, we constructed a small-scale version of a solution from a previous system design project. The system used Access Database, OBDC and Java and the product was demonstrated to the public.</p>
-
-<h2><a id="interests">INTERESTS</a></h2>
-<p>I am strongly motivated to keep up to date with current technologies. I am also an enthusiast of Computer games. I also enjoy playing many sporting activities like Tennis and Badminton.</p>
-
 
 <h2><g-emoji alias="email" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2709.png" ios-version="6.0">✉️</g-emoji> <a id="contact">Contact Me</a></h2>
 <ul>
