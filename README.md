@@ -1,6 +1,7 @@
 <h1 align="center"> <a id="top">Keith. K. O. Amoah</a> </h1>
-<p align="center"><a href="#experience">WORK EXPERIENCE</a>
-| <a href="#skills">KEY SKILLS</a>
+<p align="center">
+<a href="#skills">KEY SKILLS</a>
+| <a href="#experience">WORK EXPERIENCE</a>
 | <a href="#education">EDUCATION</a>
 | <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a><br>
 | <a href="#achievements">SELECTED ACHIEVEMENTS</a>
