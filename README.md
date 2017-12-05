@@ -13,7 +13,7 @@
 <p>I had a fascination with software development since a young age and keep up to date with current technologies. I am open to working with different technologies and learn new skills . When I am not coding, I playing computer games or playing sports like Tennis and Badminton.</p> 
 
 <h2> Recent Activity</h2>
-<p>I recently graduated from a highly selective, 16 week, 9 till 5, intensive software development boot camp at Makers Academy. I took the course to expand on my existing knowledge of program languages while instilled the best practices and new methodologies such as TDD (Test Driven Development) & Agile.</p>
+<p>I recently graduated from a highly selective, 16 week, 9 till 5, intensive software development boot camp at Makers Academy. The last two weeks of the course was spent working on a group project of our choice. We had to demo this project to the public on the final day. I took the course to expand on my existing knowledge of program languages while instilled the best practices and new methodologies such as TDD (Test Driven Development) &), Agile & OOD (Object Oriented Design).</p>
 
 
 | Project   | Description | Technologies |
@@ -46,7 +46,7 @@ Network
 Design Systems
 <ul><li>I understand how to analyse a business system effectively and how to improve it using DFD, UP and UML</li></ul>
 Operating systems
-<ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE 10 and Ubuntu, Debian)</li></ul>
+<ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE 10 and Ubuntu, Debian) & MAC (Sierra)</li></ul>
 Version control software
 <ul><li>Commercial experience with Tortoise, Deploy &amp; some experience with GIT</li></ul>
 
@@ -74,8 +74,7 @@ Aug 2009 to Aug 2010 - Aish Technology Ltd-Trainee Software Support Engineer
 
 <p>
 2017 July - Novemeber, Makers Academy<br>
-  16-week intensive software for a Junior Developer role covering Agile methodologies, Object-oriented design,  Test driven development 
-  Pair programming and XP values
+  16-week intensive Junior Developer Bootcamp 
 </p>
 
 <p>11th –15th August 2014 WELL House Consultants<br>
