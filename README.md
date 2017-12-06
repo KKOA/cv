@@ -8,12 +8,15 @@
 | <a href="#contact">CONTACT</a>
 </p>
 
-<p>I am a former Backend Developer with 1 year’s commercial experience with API, seeking an opportunities in environment that will expand my knowledge and skills while enabling me to add value to the business using my existing technical strengths, analytical abilities and strong people skills.</p> 
+I am a former Backend Developer with commercial experience in API, seeking an opportunity in an environment that will expand my knowledge and skills while enabling me to add value to the business using my existing technical strengths, analytical abilities and strong people skills.
 
-<p>I had a fascination with software development since a young age and keep up to date with current technologies. I am open to working with different technologies and learn new skills . When I am not coding, I playing computer games or playing sports like Tennis and Badminton.</p> 
+I have had a fascination with software development since a young age and I keep up to date with current technologies. I am open to working with different technologies and to learning new skills. When I am not coding, I play computer games or sports like Tennis and Badminton.
 
-<h2> Recent Activity</h2>
-<p>I recently graduated from a highly selective, 16 week, 9 till 5, intensive software development boot camp at Makers Academy. The last two weeks of the course was spent working on a group project of our choice. We had to demo this project to the public on the final day. I took the course to expand on my existing knowledge of program languages while instilled the best practices and new methodologies such as TDD (Test Driven Development) &), Agile & OOD (Object Oriented Design).</p>
+Recent Activity
+
+I recently graduated from a highly selective, 16 week, 9 till 5, intensive software development boot camp at Makers Academy. The last two weeks of the course was spent working on a group project of our choice. We had to demo this project to the public on the final day. 
+
+From my experience at Makers Academy, I have expanded my existing knowledge of programming languages and it has sharpened my understanding of the importance of best practices and new methodologies such as TDD (Test Driven Development), Agile and OOD (Object Oriented Design).
 
 
 | Project   | Description | Technologies |
