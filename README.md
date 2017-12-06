@@ -1,7 +1,7 @@
 <h1 align="center"> <a id="top">Keith. K. O. Amoah</a> </h1>
 <p align="center">
-<a href="#skills">KEY SKILLS</a>
-| <a href="#experience">WORK EXPERIENCE</a>
+<a href="#experience">WORK EXPERIENCE</a>
+|  <a href="#skills">KEY SKILLS</a>
 | <a href="#education">EDUCATION</a>
 | <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a><br>
 | <a href="#achievements">SELECTED ACHIEVEMENTS</a>
@@ -25,34 +25,6 @@ From my experience at Makers Academy, I have expanded my existing knowledge of p
 | [Foodreview](https://github.com/KKOA/foodreview) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara &amp; Jquery |
 | [Bank](https://github.com/KKOA/bank-tech-test) | Built simple bank program. | Ruby &amp; Rspec |
 
-<h2><g-emoji alias="book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png" ios-version="6.0">📖</g-emoji> <a id="skills">KEY SKILLS</a></h2>
-Software Development Environment
-<ul><li>Extensive knowledge of Development environment (Eclipse, Dreamweaver, etc.).</li></ul>
-Programming
-<ul><li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li></ul>
-<ul><li>Some experience with Laravel – Laravel Homestead &amp; Codeiginter</li></ul>
-<ul><li>HTML5, CSS3 (SCSS)</li></ul>
-<ul><li>Java, Visual basic &amp; Ruby</li></ul>
-<ul><li>Some experience in C++, Action Script 3 &amp; Ruby(Ruby on Rails & sinatra)</li></ul>
-Methodologies
-<ul>
-  <li>Test driven development and behaviour driven development</li>
-  <li>Pair programming</li>
-  <li>XP values</li>
-</ul>
-Databases
-<ul>
-  <li>Access, Oracle 10, SQL , ODBC, JBDC, Postgres &amp; commercial experience in MySQL</li>
-</ul>
-Network
-<ul><li>Competent  in network schemas and design</li></ul>
-Design Systems
-<ul><li>I understand how to analyse a business system effectively and how to improve it using DFD, UP and UML</li></ul>
-Operating systems
-<ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE 10 and Ubuntu, Debian) & MAC (Sierra)</li></ul>
-Version control software
-<ul><li>Commercial experience with Tortoise, Deploy &amp; some experience with GIT</li></ul>
-
 <h2><a id="experience">WORK EXPERIENCE</a></h2>
 Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, CSS, JavaScript, HTML)
 <ul>
@@ -72,6 +44,34 @@ Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, 
 
 <h3> INDUSTRIAL PLACEMENT </h3>
 Aug 2009 to Aug 2010 - Aish Technology Ltd-Trainee Software Support Engineer
+
+<h2><g-emoji alias="book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png" ios-version="6.0">📖</g-emoji> <a id="skills">KEY SKILLS</a></h2>
+Software Development Environment
+<ul><li>Extensive knowledge of Development environment (Eclipse, Dreamweaver, etc.).</li></ul>
+Programming
+<ul><li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li></ul>
+<ul><li>Some experience with Laravel – Laravel Homestead &amp; Codeiginter</li></ul>
+<ul><li>HTML5, CSS3 (SCSS)</li></ul>
+<ul><li>Java, Visual basic &amp; Ruby</li></ul>
+<ul><li>Some experience in C++, Action Script 3 &amp; Ruby(Ruby on Rails & sinatra)</li></ul>
+Methodologies
+<ul>
+  <li>Test driven development and behaviour driven development</li>
+  <li>Pair programming</li>
+  <li>Agile / XP</li>
+</ul>
+Databases
+<ul>
+  <li>Access, Oracle 10, SQL , ODBC, JBDC, Postgres &amp; commercial experience in MySQL</li>
+</ul>
+Network
+<ul><li>Competent  in network schemas and design</li></ul>
+Design Systems
+<ul><li>I understand how to analyse a business system effectively and how to improve it using DFD, UP and UML</li></ul>
+Operating systems
+<ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE 10 and Ubuntu, Debian) & MAC (Sierra)</li></ul>
+Version control software
+<ul><li>Commercial experience with Tortoise, Deploy &amp; some experience with GIT</li></ul>
 
 <h2><g-emoji alias="mortar_board" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png" ios-version="6.0">🎓</g-emoji> <a id="education">EDUCATION</a></h2>
 
