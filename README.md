@@ -51,8 +51,7 @@ Software Development Environment
 Programming
 <ul><li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li></ul>
 <ul><li>Some experience with Laravel – Laravel Homestead &amp; Codeiginter</li></ul>
-<ul><li>HTML5, CSS3 (SCSS)</li></ul>
-<ul><li>Java, Visual basic &amp; Ruby</li></ul>
+<ul><li>HTML5, CSS3 (SCSS), Java &amp; Visual basic</li></ul>
 <ul><li>Some experience in C++, Action Script 3 &amp; Ruby(Ruby on Rails & sinatra)</li></ul>
 Methodologies
 <ul>
