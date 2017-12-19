@@ -1,19 +1,19 @@
-<h1 align="center"> <a id="top">Keith. K. O. Amoah</a> </h1>
+<h1 align="center"><a id="top">Keith. K. O. Amoah</a></h1>
 <p align="center">
 <a href="#experience">WORK EXPERIENCE</a>
 |  <a href="#skills">KEY SKILLS</a>
-| <a href="#education">EDUCATION</a>
-| <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a><br>
+| <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a>
+| <a href="#education">EDUCATION</a><br>
 | <a href="#achievements">SELECTED ACHIEVEMENTS</a>
 | <a href="#contact">CONTACT</a>
+| <a href="#reference">REFERENCES</a>
 </p>
 
 I am a former Backend Developer with commercial experience in API, seeking an opportunity in an environment that will expand my knowledge and skills while enabling me to add value to the business using my existing technical strengths, analytical abilities and strong people skills.
 
 I have had a fascination with software development since a young age and I keep up to date with current technologies. I am open to working with different technologies and to learning new skills. When I am not coding, I play computer games or sports like Tennis and Badminton.
 
-Recent Activity
-
+<h2>Recent Activity</h2>
 I recently graduated from a highly selective, 16 week, 9 till 5, intensive software development boot camp at Makers Academy. The last two weeks of the course was spent working on a group project of our choice. We had to demo this project to the public on the final day. 
 
 From my experience at Makers Academy, I have expanded my existing knowledge of programming languages and it has sharpened my understanding of the importance of best practices and new methodologies such as TDD (Test Driven Development), Agile and OOD (Object Oriented Design).
@@ -21,8 +21,8 @@ From my experience at Makers Academy, I have expanded my existing knowledge of p
 
 | Project   | Description | Technologies |
 |---        |---          |---           |
-| [Thermostat Sinatra](https://github.com/KKOA/thermostat-sinatra) | The thermostat program which allows the user to change the temperature of the room and power mode. The thermostat is capable of remembering the last temperature that it was set at aswell display the current temperature outside | Sinatra, JavaScript &amp; Jasmine |
-| [Foodreview](https://github.com/KKOA/foodreview) | My take on Yelp clone. | Ruby on Rails, RSpec/Capybara &amp; Jquery |
+| [Thermostat Sinatra](https://github.com/KKOA/thermostat-sinatra) | My thermostat web application | Sinatra, JavaScript &amp; Jasmine |
+| [Foodreview](https://github.com/KKOA/foodreview) | My take on Yelp clone. | Rails, RSpec, Capybara &amp; JQuery |
 | [Bank](https://github.com/KKOA/bank-tech-test) | Built simple bank program. | Ruby &amp; Rspec |
 
 <h2><a id="experience">WORK EXPERIENCE</a></h2>
@@ -72,6 +72,13 @@ Operating systems
 Version control software
 <ul><li>Commercial experience with Tortoise, Deploy &amp; some experience with GIT</li></ul>
 
+<h2><a id="attributes">PERSONAL ATTRIBUTES/PROFILE</a></h2>
+<p>Interculturally aware, lived as child in Berlin (4 years), studied German to AS level<br>
+Effective report &amp; presentation skills – came first in competition for my report on “What the WEEE &amp; RoHS Initiatives are and why they are Important”.<br>
+Committed, hard-working and reliable<br>
+Full Clean UK Driver’s License and own vehicle
+</p>
+
 <h2><g-emoji alias="mortar_board" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png" ios-version="6.0">🎓</g-emoji> <a id="education">EDUCATION</a></h2>
 
 <p>
@@ -90,27 +97,18 @@ BSc(Hons) Multimedia Communication Systems (MCS)(Awarded 2.2)<br>
 MCS aims to educate and develop Computer Science graduates for the Multimedia and Games Industry</p>
 
 <p>2005 – 2007, Cirencester College, Cirencester<br>
-A2   level:  Maths C, Computing D, Physics D.  AS level:  German D.</p>
-
-<h2><a id="attributes">PERSONAL ATTRIBUTES/PROFILE</a></h2>
-<p>Interculturally aware, lived as child in Berlin (4 years), studied German to AS level<br>
-Effective report &amp; presentation skills – came first in competition for my report on “What the WEEE &amp; RoHS Initiatives are and why they are Important”.<br>
-Committed, hard-working and reliable<br>
-Leadership - directed a team project (of 5 peers) on analysing a business system and came up with our own solution to improve efficiency and reduce possible errors.<br>
-</p>
+A2  level: Maths C, Computing D &amp; Physics D. AS level:  German D.</p>
 
 <h2><a id="achievements">SELECTED ACHIEVEMENTS</a></h2>
 <p>Designed and built an E-learning Aid to assist students studying Wi-Fi, WiMAX and LTE (Long Term Evolution). The E-learning Aid provided a “blended learning” experience which embraced a number of multimedia modes such as text, video, audio and Flash animations. The site is currently on my Raspberry PI LAMP server. (Available on request)</p>
 
 <p>Constructed an E-commerce music site similar to iTunes based on Oracle, JavaScript and PHP.  I worked in the Integrated Project Team as Oracle Database Designer.</p>
 
-<p>Designed and built an Object Oriented Application in Java that could manage the football league table using Eclipse and Oracle.</p>
-
 <p>I led a team to analyse a business system, identifying problems and coming up with our own solution. We evaluated our solution in terms of its effectiveness, efficiency and financial viability in comparison to the existing system for the company. This was later used in our project during Simulated Business Week.</p>
 
 <p>As the programmer in an Integrated Project Team, we constructed a small-scale version of a solution from a previous system design project. The system used Access Database, OBDC and Java and the product was demonstrated to the public.</p>
 
-<h2><g-emoji alias="email" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2709.png" ios-version="6.0">✉️</g-emoji> <a id="contact">Contact Me</a></h2>
+<h2><g-emoji alias="email" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/2709.png" ios-version="6.0">✉️</g-emoji> <a id="contact">Contact</a></h2>
 <ul>
   <li>E-mail: keith_amoah@hotmail.co.uk</li>
   <li>LinkedIn :
@@ -119,8 +117,6 @@ Leadership - directed a team project (of 5 peers) on analysing a business system
   <a href="https://www.codewars.com/users/KKOA">KKOA</a></li>
   <li> GitHub : <a href="https://github.com/KKOA">KKOA</a></li>
 </ul>
-<h2>Other</h2>
-<ul>
-<li>Driving License: Full Clean UK Driver’s License and own vehicle</li>
-</ul>
+<h2 id="reference">REFERENCES</h2>
+References are avaliable upon request
 <p align="center"><a href="#top"> To the Top </a></p>
