@@ -2,21 +2,22 @@
 <p align="center">
 <a href="#experience">WORK EXPERIENCE</a>
 |  <a href="#skills">KEY SKILLS</a>
-| <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a>
 | <a href="#education">EDUCATION</a><br>
+| <a href="#attributes"> PERSONAL ATTRIBUTES/PROFILE</a>
 | <a href="#achievements">SELECTED ACHIEVEMENTS</a>
 | <a href="#contact">CONTACT</a>
 | <a href="#reference">REFERENCES</a>
 </p>
 
-I am a former Backend Developer with commercial experience in API, seeking an opportunity in an environment that will expand my knowledge and skills while enabling me to add value to the business using my existing technical strengths, analytical abilities and strong people skills.
+I am a Backend Developer with commercial experience in API, seeking an opportunity in an environment that will expand my knowledge and skills while enabling me to add value to the business using my existing technical strengths, analytical abilities and strong people skills.
 
-I have had a fascination with software development since a young age and I keep up to date with current technologies. I am open to working with different technologies and to learning new skills. When I am not coding, I play computer games or sports like Tennis and Badminton.
+I have had a fascination with software development since a young age and I keep up to date with current technologies. I am open to working with different technologies and to learning new skills. 
 
-<h2>Recent Activity</h2>
-I recently graduated from a highly selective, 16 week, 9 till 5, intensive software development boot camp at Makers Academy. The last two weeks of the course was spent working on a group project of our choice. We had to demo this project to the public on the final day. 
+<h2>SOFTWARE DEVELOPMENT BOOTCAMP SEPT-DEC 2017</h2>
+I recently graduated from a highly selective, 16 week, intensive software development boot camp at Makers Academy. The last two weeks of the course was spent working on a group project of our choice. 
 
-From my experience at Makers Academy, I have expanded my existing knowledge of programming languages and it has sharpened my understanding of the importance of best practices and new methodologies such as TDD (Test Driven Development), Agile and OOD (Object Oriented Design).
+From my experience at Makers Academy, I have expanded my existing knowledge of programming languages and it has sharpened my understanding of the importance of best practices and new methodologies such as TDD (Test Driven Development), Agile, OOD (Object Oriented Design) and Scrum.
+
 
 
 | Project   | Description | Technologies |
@@ -38,12 +39,18 @@ Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, 
 </ul>
 
 <h3> LOGISTICS </h3>
-<p>June 2015 to Jan 2016 - DHL – Warehouse Operative</p>
+<p>June 2015 to Jan 2016 - DHL – Warehouse Operative<br>
+May 2013 to June 2015 - 24.7 Recruitment – Contract Stock Handler</p>
 
-<p>May 2013 to June 2015 - 24.7 Recruitment – Contract Stock Handler</p>
+<h2><g-emoji alias="mortar_board" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png" ios-version="6.0">🎓</g-emoji> <a id="education">EDUCATION & INDUSTRIAL PLACEMENT</a></h2>
+<p>2014 WELL House Consultants<br>
+PHP Programming</p>
 
-<h3> INDUSTRIAL PLACEMENT </h3>
+2007– 2011, Bournemouth University<br>
+BSc(Hons) Multimedia Communication Systems (MCS)(Awarded 2.2)<br>
+MCS aims to educate and develop Computer Science graduates for the Multimedia and Games Industry<br>
 Aug 2009 to Aug 2010 - Aish Technology Ltd-Trainee Software Support Engineer
+
 
 <h2><g-emoji alias="book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png" ios-version="6.0">📖</g-emoji> <a id="skills">KEY SKILLS</a></h2>
 Software Development Environment
@@ -52,7 +59,7 @@ Programming
 <ul><li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li></ul>
 <ul><li>Some experience with Laravel – Laravel Homestead &amp; Codeiginter</li></ul>
 <ul><li>HTML5, CSS3 (SCSS), Java &amp; Visual basic</li></ul>
-<ul><li>Some experience in C++, Action Script 3 &amp; Ruby(Ruby on Rails & sinatra)</li></ul>
+<ul><li>Some experience in C++ &amp; Ruby(Ruby on Rails & sinatra)</li></ul>
 Methodologies
 <ul>
   <li>Test driven development and behaviour driven development</li>
@@ -61,16 +68,16 @@ Methodologies
 </ul>
 Databases
 <ul>
-  <li>Access, Oracle 10, SQL , ODBC, JBDC, Postgres &amp; commercial experience in MySQL</li>
+  <li>Access, Oracle, SQL , ODBC, JBDC, Postgres &amp; commercial experience in MySQL</li>
 </ul>
 Network
-<ul><li>Competent  in network schemas and design</li></ul>
+<ul><li>Competent  in network schemas and design (CCNA)</li></ul>
 Design Systems
 <ul><li>I understand how to analyse a business system effectively and how to improve it using DFD, UP and UML</li></ul>
 Operating systems
-<ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE 10 and Ubuntu, Debian) & MAC (Sierra)</li></ul>
+<ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE and Ubuntu, Debian) & MAC (Sierra) using VMware</li></ul>
 Version control software
-<ul><li>Commercial experience with Tortoise, Deploy &amp; some experience with GIT</li></ul>
+<ul><li>Commercial experience with Tortoise, Deploy &amp; GIT</li></ul>
 
 <h2><a id="attributes">PERSONAL ATTRIBUTES/PROFILE</a></h2>
 <p>Interculturally aware, lived as child in Berlin (4 years), studied German to AS level<br>
@@ -78,26 +85,6 @@ Effective report &amp; presentation skills – came first in competition for my 
 Committed, hard-working and reliable<br>
 Full Clean UK Driver’s License and own vehicle
 </p>
-
-<h2><g-emoji alias="mortar_board" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f393.png" ios-version="6.0">🎓</g-emoji> <a id="education">EDUCATION</a></h2>
-
-<p>
-2017 July - Novemeber, Makers Academy<br>
-  16-week intensive Junior Developer Bootcamp 
-</p>
-
-<p>11th –15th August 2014 WELL House Consultants<br>
-PHP Programming</p>
-
-<p>Jan - Dec 2011, Bournemouth University<br>
-Passed CCNA 2   Routing Protocols and Concept</p>
-
-<p>2007– 2011, Bournemouth University<br>
-BSc(Hons) Multimedia Communication Systems (MCS)(Awarded 2.2)<br>
-MCS aims to educate and develop Computer Science graduates for the Multimedia and Games Industry</p>
-
-<p>2005 – 2007, Cirencester College, Cirencester<br>
-A2  level: Maths C, Computing D &amp; Physics D. AS level:  German D.</p>
 
 <h2><a id="achievements">SELECTED ACHIEVEMENTS</a></h2>
 <p>Designed and built an E-learning Aid to assist students studying Wi-Fi, WiMAX and LTE (Long Term Evolution). The E-learning Aid provided a “blended learning” experience which embraced a number of multimedia modes such as text, video, audio and Flash animations. The site is currently on my Raspberry PI LAMP server. (Available on request)</p>
