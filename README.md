@@ -23,8 +23,9 @@ From my experience at Makers Academy, I have expanded my existing knowledge of p
 | Project   | Description | Technologies |
 |---        |---          |---           |
 | [Thermostat Sinatra](https://github.com/KKOA/thermostat-sinatra) | My thermostat web application | Sinatra, JavaScript &amp; Jasmine |
-| [Foodreview](https://github.com/KKOA/foodreview) | My take on Yelp clone. | Rails, RSpec, Capybara &amp; JQuery |
+| [Foodback](https://github.com/KKOA/foodback) | My take on Yelp clone. | Laravel, Laravel Dusk, JQuery, MySQL, SCSS & Bootstrap |
 | [Bank](https://github.com/KKOA/bank-tech-test) | Built simple bank program. | Ruby &amp; Rspec |
+| [Sonar](https://github.com/KKOA/sonar-rails) | My take on property search webpage using Homeflow api. | Rails, Bootstrap & JQuery
 
 <h2><a id="experience">WORK EXPERIENCE</a></h2>
 Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, CSS, JavaScript, HTML)
