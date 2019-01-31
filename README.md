@@ -27,7 +27,9 @@ From my experience at Makers Academy, I have expanded my existing knowledge of p
 | [Bank](https://github.com/KKOA/bank-tech-test) | Built simple bank program. | Ruby &amp; Rspec |
 | [Sonar](https://github.com/KKOA/sonar-rails) | My take on property search webpage using Homeflow api. | Rails, Bootstrap & JQuery
 
-<h2><a id="experience">WORK EXPERIENCE</a></h2>
+<h2> :office: <a id="experience">WORK EXPERIENCE</a></h2>
+Aug to Nov 2018 – Nisbets – Web Developer (Java, JSTL, Less, Spring, XML, Hybris, JQuery)
+<ul><li>Bug fixing existing codebase</li></ul>
 Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, CSS, JavaScript, HTML)
 <ul>
 <li>Developed, implemented, customised and maintained digital data-capturing tools for leading blue chip clients. These were deployed to identify how these business could better support their existing clientele and to identify potential growth areas.</li>
@@ -58,9 +60,8 @@ Software Development Environment
 <ul><li>Extensive knowledge of Development environment (Eclipse, Dreamweaver, etc.).</li></ul>
 Programming
 <ul><li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li></ul>
-<ul><li>Some experience with Laravel – Laravel Homestead &amp; Codeiginter</li></ul>
-<ul><li>HTML5, CSS3 (SCSS), Java &amp; Visual basic</li></ul>
-<ul><li>Some experience in C++ &amp; Ruby(Ruby on Rails & sinatra)</li></ul>
+<ul><li>Frameworks Laravel – Laravel, Codeiginter, Boostrap &amp; Ruby on Rails</li></ul>
+<ul><li>HTML5, CSS3 (SCSS), Java &amp; Some experience in Ruby (sinatra)</li></ul>
 Methodologies
 <ul>
   <li>Test driven development and behaviour driven development</li>
@@ -69,16 +70,20 @@ Methodologies
 </ul>
 Databases
 <ul>
-  <li>Access, Oracle, SQL , ODBC, JBDC, Postgres &amp; commercial experience in MySQL</li>
+  <li>Access, SQLite3 , Oracle, SQL , ODBC, JBDC, Postgres &amp; commercial experience in MySQL</li>
 </ul>
 Network
 <ul><li>Competent  in network schemas and design (CCNA)</li></ul>
 Design Systems
 <ul><li>I understand how to analyse a business system effectively and how to improve it using DFD, UP and UML</li></ul>
 Operating systems
-<ul><li>Proficient in Windows 7/10,  limited LINUX (SUSE and Ubuntu, Debian) & MAC (Sierra) using VMware</li></ul>
+<ul>
+  <li>Proficient in Windows OS 7/10
+  <li> MAC OS (Sierra) using VMware Workstation</li>
+  <li>Limited LINUX (SUSE and Ubuntu, Debian) from Raspberry Pi LAMP (Linux Apache MySQL, PHP) server and Laravel Homestead </li>
+</ul>
 Version control software
-<ul><li>Commercial experience with Tortoise, Deploy &amp; GIT</li></ul>
+<ul><li>Commercial experience with Tortoise, Deploy, Git &amp; GitLab</li></ul>
 
 <h2><a id="attributes">PERSONAL ATTRIBUTES/PROFILE</a></h2>
 <p>Interculturally aware, lived as child in Berlin (4 years), studied German to AS level<br>
