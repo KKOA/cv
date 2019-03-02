@@ -28,6 +28,8 @@ From my experience at Makers Academy, I have expanded my existing knowledge of p
 | [Sonar](https://github.com/KKOA/sonar-rails) | My take on property search webpage using Homeflow api. | Rails, Bootstrap & JQuery
 
 <h2> :office: <a id="experience">WORK EXPERIENCE</a></h2>
+Feb 2019 to present - Pixel Pixel - Full Stack Developer (PHP, October CMS, Laravel) 
+
 Aug to Nov 2018 – Nisbets – Web Developer (Java, JSTL, Less, Spring, XML, Hybris, JQuery)
 <ul><li>Bug fixing existing codebase</li></ul>
 Jan 2016 to Nov 2016 - Digital Box Group Ltd – Backend Developer (PHP, MYSQL, CSS, JavaScript, HTML)
