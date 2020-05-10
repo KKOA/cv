@@ -82,11 +82,15 @@ From my experience at Makers Academy, I have expanded my existing knowledge of p
 
 <h2><g-emoji alias="book" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4d6.png" ios-version="6.0">📖</g-emoji> <a id="skills">KEY SKILLS</a></h2>
 Software Development Environment
-<ul><li>Extensive knowledge of Development environment (Eclipse, Dreamweaver, etc.).</li></ul>
+<ul>
+  <li>Extensive knowledge of Development environment (Eclipse, Dreamweaver, etc.).</li>
+</ul>
 Programming
-<ul><li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li></ul>
-<ul><li>Frameworks Laravel – Laravel, Codeiginter, Bootstrap &amp; Ruby on Rails</li></ul>
-<ul><li>HTML5, CSS3 (SCSS), Java &amp; Some experience in Ruby (Sinatra)</li></ul>
+<ul>
+  <li>Commercial experience in PHP  &amp; JavaScript (JQuery)</li>
+  <li>Frameworks Laravel – Laravel, Codeiginter, Bootstrap &amp; Ruby on Rails</li>
+  <li>HTML5, CSS3 (SCSS), Java &amp; Some experience in Ruby (Sinatra)</li>
+</ul>
 Methodologies
 <ul>
   <li>Test driven development and behaviour driven development</li>
